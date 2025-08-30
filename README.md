@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at CitiusCloud Services LLP<br><br>🏫 Currently Graduating as a Artificial Intelligence Engineer @Mumbai University<br><br>😎 Always open to Innovative projects<br><br>👬🏽 I am looking to collaborate on projects solving real world problems<br><br>💬 I have mainly worked with Python and Java, but open to learn more!<br><br>📫 How to reach me bhavesh.opportunities@gmail.com
+🔭 I’m currently working at CitiusCloud Services LLP<br><br>🏫 Currently Graduating as a Artificial Intelligence Engineer @Mumbai University<br><br>😎 Always open to Innovative projects<br><br>👬🏽 I am looking to collaborate on projects solving real world problems<br><br>💬 I have mainly worked with Python , but open to learn more!<br><br>📫 How to reach me bhavesh.opportunities@gmail.com
 
 
 ## 🌐 Socials:
