@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working at CitiusCloud Services LLP<br><br>🏫 Currently graduating as an Artificial Intelligence Engineer @ Mumbai University<br><br>😎 Always open to innovative projects<br><br>👬🏽 I am looking to collaborate on projects solving real world problems<br><br>💬 I have mainly worked with Python, but open to learn more!<br><br>📍 Based in Mumbai, Maharashtra<br><br>📞 +91-9665521379<br><br>📫 How to reach me bhavesh.opportunity@gmail.com
+🔭 I’m currently working at CitiusCloud Services LLP<br><br>
+🏫 Currently graduating as an Artificial Intelligence Engineer @ Mumbai University<br><br>
+😎 Always open to innovative projects<br><br>
+👬🏽 I am looking to collaborate on projects solving real world problems<br><br>
+💬 I have mainly worked with Python, but open to learn more!<br><br>
+📍 Based in Mumbai, Maharashtra<br><br>
+📞 +91-9665521379<br><br>
+📫 How to reach me bhavesh.opportunity@gmail.com
 
 ## 🧾 Summary:
 AI & Data Science student (3rd year) with hands-on experience shipping GenAI/LLM systems on AWS Bedrock/EKS and Azure AKS.<br><br>Built financial research agents and enterprise assistants with 99.9% uptime; managed secure multi-environment deployments, ingestion pipelines, and end-to-end integration.
