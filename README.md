@@ -29,8 +29,7 @@
 ```python
 class BhaveshVarma:
     def __init__(self):
-        self.role        = "Technical Head @ DialPhone"   # CTO-level ownership
-        self.age         = 20
+        self.role        = "Chief Technical Officer @ DialPhone"
         self.cert        = "AWS GenAI Developer – Professional (Early Adopter)"
         self.os          = "Arch Linux + Hyprland"
         self.edge        = "where AI moves from prototype to stable production"
